@@ -1,6 +1,6 @@
 # app-dev
 My first repository
-# h1 My favorite series/movie 
+My favorite series/movie 
 
 ![image](https://user-images.githubusercontent.com/103482651/206831573-db34394f-3433-4193-a797-30ad580ec098.png)
 [Spider-Man Far From Home] (https://www.imdb.com/title/tt6320628/?ref_=ttls_li_tt)
